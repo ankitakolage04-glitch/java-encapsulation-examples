@@ -21,6 +21,8 @@ This repository contains simple Java programs demonstrating the Encapsulation co
 - Test_Student
 - <img width="1200" height="1600" alt="WhatsApp Image1 2026-06-04 at 11 08 00 PM" src="https://github.com/user-attachments/assets/ddcdd570-47c7-4b44-9cc6-838cc39cd66c" />
 
+![Uploading image.png…]()
+
 
 These classes demonstrate how data can be accessed and modified using getter and setter methods while keeping variables private.
 
